@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-**MrHari2002/MrHari2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Front End Webdevelopment at GBCS and also fullstack development at the techevlevator.
 - 🌱 I’m currently learning React, Javascript, Typescript, ExpressJS, and more.
 - 👯 I’m looking to collaborate on Front End Web Projects. League Of Legends Stats related project, E commerce related projects.
