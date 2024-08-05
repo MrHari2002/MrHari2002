@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Front End Webdevelopment at GBCS and also fullstack development at the techevlevator.
+- 🔭 I’m currently working on Front End Web development at Aroomy and I am also learning full stack development at the Tech Evlevator.
 - 🌱 I’m currently learning React, Javascript, Typescript, ExpressJS, and more.
 - 👯 I’m looking to collaborate on Front End Web Projects. League Of Legends Stats related project, E commerce related projects.
 - 🤔 I’m looking for help with Job.
